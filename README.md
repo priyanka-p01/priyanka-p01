@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on building my Electronics and Computer skills
 
-- 🌱 I’m currently learning **React JS for Front-End Web Development**
+- 🌱 I’m currently learning **React JS for Front-End **
 
 - 👯 I’m looking to collaborate on **Embedded Systems and Web Development projects**
 
