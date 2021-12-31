@@ -16,7 +16,7 @@
     <h4> <em><u>Electronics + Coputer Science</u></em> skillset: Languages, Skills & Tools </h4>
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/46/000000/arduino.png"/> </a>
     <a href="https://www.raspberrypi.org" taregt="_blank"> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> < img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/></a>  
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
