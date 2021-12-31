@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Embedded Systems and Web Development projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://priyanka-p01.github.io)**
+- 👨‍💻 A little about me and my works at **[My Personal Portfolio](https://priyanka-p01.github.io)**
 
 - ⚡ Fun fact **I love watches, memes and am a writer at heart!**
 
