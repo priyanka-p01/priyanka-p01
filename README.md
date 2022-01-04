@@ -12,22 +12,22 @@
 
 ## 🚀 Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-p01)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> 
     <h4> <em><u>Electronics + Coputer Science</u></em> skillset: Languages, Skills & Tools </h4>
-    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/46/000000/arduino.png"/> </a>
-    <a href="https://www.raspberrypi.org" taregt="_blank"> <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/></a>  
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>    
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/arduino.png"/> </a>
+    <a href="https://www.raspberrypi.org" taregt="_blank"> <img src="https://img.icons8.com/color/50/000000/raspberry-pi.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="https://img.icons8.com/color/50/000000/c-programming.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"> <img src="https://img.icons8.com/color/50/c-plus-plus-logo.png"/></a>  
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/50/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/python.png"/> </a>    
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/> </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-p01)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ❤ Profie Views 
 <a href="https://github.com/priyanka-p01">
