@@ -12,6 +12,8 @@
 
 ## 🚀 Languages and Tools:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-p01)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> 
     <h4> <em><u>Electronics + Coputer Science</u></em> skillset: Languages, Skills & Tools </h4>
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/46/000000/arduino.png"/> </a>
