@@ -27,7 +27,6 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-p01)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ❤ Profie Views 
 <a href="https://github.com/priyanka-p01">
