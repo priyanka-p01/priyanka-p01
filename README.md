@@ -27,6 +27,14 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/> </a>
 </p>
 
+Apart from these, I am also competent at:
+ <ul>
+    <li>Circuit Designing</li>
+    <li>SEO - Search Engine  Optimisation</li>
+    <li>Freelancing - Content Writing: Tech Blogs</li>
+    <li>Leadership and Communication skills</li>
+</ul>
+
 
 ## ❤ Profie Views 
 <a href="https://github.com/priyanka-p01">
