@@ -47,3 +47,5 @@ Apart from these, I am also competent at:
     <a href="https://github.com/priyanka-p01/priyanka-p01"><img alt="Priyanka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanka-p01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/priyanka-p01/priyanka-p01"><img alt="Priyanka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-p01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
